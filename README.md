@@ -1,0 +1,1 @@
+This project will establish a website listing various tasty recipes using basic html and css.
