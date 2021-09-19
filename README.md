@@ -1,1 +1,1 @@
-This project will establish a website listing various tasty recipes using basic html and css.
+This project will establish an html file listing various tasty recipes using basic html.
